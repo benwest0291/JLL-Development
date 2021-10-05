@@ -32,7 +32,7 @@
 }
 
 .navbar-toggler {
-  background-color: #1EDD88 !important;
+  background-color: yellow !important;
   border: solid 2px #fff !important;
 }
 
@@ -103,5 +103,9 @@ body {
   /* Equal to height of footer */
   /* But also accounting for potential margin-bottom of last child */
   margin-bottom: -50px;
+}
+
+body {
+  background-color: aquamarine;
 }
 /*# sourceMappingURL=styles.css.map */
