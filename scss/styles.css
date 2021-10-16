@@ -1,5 +1,5 @@
 .navbar-lewagon {
-  background: red;
+  background-color: brand-color;
   padding: 18px;
   width: 100%;
 }
@@ -103,9 +103,5 @@ body {
   /* Equal to height of footer */
   /* But also accounting for potential margin-bottom of last child */
   margin-bottom: -50px;
-}
-
-body {
-  background-color: aquamarine;
 }
 /*# sourceMappingURL=styles.css.map */
